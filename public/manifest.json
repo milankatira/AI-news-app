@@ -1,0 +1,10 @@
+
+{
+  "name": "AI news app",
+  "short_name": "welcome to AI news app",
+  "theme_color": "#17936a",
+  "background_color": "#f32121",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
