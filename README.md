@@ -1,11 +1,8 @@
 
-# Ai-news
+# Ai-news web
 
 this is a voice controlled news app using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice.
 
-feature
--provide a news
--
 ## Features
 
 - Prove a news world wide
